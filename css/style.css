@@ -1,0 +1,26 @@
+body
+{
+    background-color:rgb(218, 146, 214);
+}
+
+
+h1 
+{
+    color:rgb(44, 3, 27);
+}
+
+
+a
+{
+    Text-decoration:none;
+    font-family:Impact;
+    padding: 10px;
+    font: size 30px;
+
+}
+
+a:hover 
+{
+    color:darkred;
+    font: size 40px;
+}
